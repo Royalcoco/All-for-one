@@ -1,0 +1,1 @@
+#"welcomer#" *welcomer_new(void) { @alignof#"new_beginner()"; return ; ^^^^^^^^^^^^^^^^^^^^^^^^^; New_Tools * binary_speed = new_beginner();
