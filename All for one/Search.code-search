@@ -1,0 +1,9 @@
+# Query: 905
+
+2 results - 2 files
+
+.quokka • interactive-examples\JavaScript\math\math-exp.js:
+  11: // expected output: 7.38905609893065
+
+.quokka • interactive-examples\JavaScript\math\math-expm1.js:
+  11: // expected output: 6.38905609893065

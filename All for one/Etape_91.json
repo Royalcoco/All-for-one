@@ -1,0 +1,269 @@
+{
+    "configurations": [
+        {:"browserAttachLocation": null,
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "name": "Launch localhost",
+            "url": "http://localhost/index.html",
+            "webRoot": "${workspaceFolder}"
+        }overlook#<h1>Debugging</h1>,
+        {<<<<<<<<<<<.sql<<<<<<<<<<<<<<<<b><>{[</background}.(hqlite) = <<<<<<<<<<<<<.sql<<<<<<<<<<<<<<<<<<<.sql<<<<<<<<<<<<<<<<<<<.sql<<<<<<<<<<<<<<<<
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/<target-framework>/<project-name.dll>",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "pipeTransport": {
+                "pipeCwd": "${workspaceFolder}",
+                "pipeProgram": "enter the fully qualified path for the pipe program name, for example '/usr/bin/ssh'",
+                "pipeArgs": [],
+                "debuggerPath": "enter the path for the debugger on the target machine, for example ~/vsdbg/vsdbg"
+            }
+        },
+        {
+        "name": "Launch via NPM",
+        "request": "launch",
+        "runtimeArgs": [
+            "run-script",
+            "debug"
+        .{"defaultValue"}" ability/capacitymoretype1 /-    &     =value'codename" openfiles�� <--?_NO_DEBUG_HEAP (({defaultexpert.form" =[</text    ¤ <<<<<<<<<<updated.form""*let y#implementation'interface$)){{extensionInstallFolder:publisher.extension}]; = va${lineNumber} {[debug}]},      <--?,
+        ">?c_cpp<</!.htmlsourcelinkcount<be.updated.c://><--sourceMapRenames{--debug] src :doma.(='value'*net))))))<script.htmlfree.docs:doma. "files.org<<<<<<<<<<<<<<<<<<<<bluetooth-device-name:Universe_Starry_Sky_Space_HD_Nebula_1600x1200-300x225.script  src {extensionInstallFolder.copypaste} ${extensionInstallFolder.copypastefolder.copypaste} ${extensionInstallFolder.copypastefolder.copypaste} ${extension
+                "generator"browserInspectUri:   =database://com.microsoft.sqlserver.jdbc.SQLServerDriver?server=192
+            ],
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "name": "Yeoman generator",
+            "program": "${workspaceFolder}/node_modules/yo/lib/cli.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }   {
+            "type": "firefox",
+            "request": "attach",
+            "name": "Attach"
+        },
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "name": "Launch index.html",
+            "file": "${workspaceFolder}/index.html"
+        },module.org://{
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "pipeTransport": {
+                "pipeCwd": "${workspaceFolder}",
+                "pipeProgram": "enter the fully qualified path for the pipe program name, for example '/usr/bin/ssh'",
+                "pipeArgs": [],
+                "debuggerPath": "enter the path for the debugger on the target machine, for example ~/vsdbg/vsdbg"
+            }
+        },¤*¤= [{
+            "name": "Launch via NPM",
+            "request": "launch",
+            "runtimeArgs": [
+                "run-script",
+                "debug"
+            ],
+            "runtimeExecutable": "npm",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }, "Attach to Chrome#default<<<<<<{"defaultValue"}" ability/capacitymoretype1 /-    &     =value],
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+            "name": "Listen for Xdebug",
+            "type": "php",
+            "request": "launch",
+            "port": [
+                9003,
+                9000
+            ]
+        },'"runtimeExecutable": "npm",
+        "skipFiles": [
+            "<node_internals>/**"
+        ], <<<EO    either the   following  will be removed in the future   or  you will  >>>>>>>
+        "type": "node"
+    },  [>body>title.codename.eu.org><</body>#$last]; ={
+        "type": "vscode-edge-devtools.debug",
+        "request": "attach",
+        "name": "Attach to Microsoft Edge and open the Edge DevTools",
+        "url": "http://localhost:8080",
+        "webRoot": "${workspaceFolder}"
+    },  " "additionalSOLibSearchPath": "first!",file.eu.
+        {<<<<<<<<<<<<<<<<<<<<bluetooth-device-name:Universe_Starry_Sky_Space_HD_Nebula_1600x1200-300x225.script  src
+        < ! --return value --><body>.text<<value  .script>> '.<title>declase</title>= scriptusername#filenamemore'</body>#$last:"additionalSOLibSearchPath": "first!",file.eu.doc.juration!.<h>;first!</h>#http.doc.files.eur{input.codec.name}{codec.name}" : input dessert.codec
+             {
+                "name": "Launch & Profile built-in server",
+                "type": "php",
+                "request": "launch",
+                "noDebug": true,
+                "profile": true,
+                "runtimeArgs": [
+                    "-S",
+                    "localhost:8000",
+                    "-t",
+                    "."
+                ],
+                "port": 9003,
+                "serverReadyAction": {
+                    "action": "openExternally"
+                }
+             }, ={
+                "name": "Launch Program",
+                "program": "${workspaceFolder}/app.js",
+                "request": "launch",
+                "skipFiles": [
+                    "<node_internals>/**"
+                ],
+                "type": "node"
+             },.codec = input.codec#' <AbortSignalview.port.class></.hml-class:{HTMLOptGroupElement}'ActiveXObject>><div class="script object"></div><<</body>
+            </html><noscript>:<
+             <codesource class="text">Universe_Starry_Sky_Space_HD_Nebula_1600x1200-300x225#groupe# hml-class</codesource><<<<<<<< hml:keyboard>{textnoscript#filenamemore<<
+                <a href="subject.html << value input.codec.name h1="type(#AbortSignsignalview$$initiale{*#routine(scriptgrammar-error-system-error}
+                <h2><{.script=capacitymoretype1}<var "subject </h2><<< end h1>>
+                = 'insert into * from url where url = "validation from url ;url.website.www:<port//#insert =< --! DOCTYPE -!-outline > "'keyboard#object.min   -<#{select["#mission"]}>>;first:{
+                    "version": "0.2.0",
+                    "configurations": [],
+                    "compounds": []
+                }<h>?, <selectkeyboard * filenamemore ------------------------------------------  
+                {<<picture-in-picture#h1}="subject.html:_live.docfiles << value input.codec.name h1="type ----------------------------------------------------------------
+                    #'{routines =  <a href="subject.html << value input.codec.name h1="type(#AbortSignsignalview$$initiale{*#routine(scriptgrammar-error-system-error}
+                    <h2><{.script=capacitymoretype1}<var "subject </h2><<< end h1>>
+                    = 'insert into * from url where url = "validation from url ;url.website.www:<port//#insert =< --! DOCTYPE -!-outline > "'keyboard#object.min   -<#{select["#mission"]}>>?, <selectkeyboard * filenamemore ------------------------------------------*(DOCTYPE<!-----;-TimeRanges[value}expected{score = value}updated[TimeRanges(insertobjectplease).<<]', <select * filenamemore ----------------------------------------------------------------
+                        {<<picture-in-picture#h1}="subject.html:_live.docfiles << value input.codec.name h1="type ----------------------------------------------------------------
+                        #'{routines =  <a href="subject.html << value input.codec.name h1="type(#AbortSignsignalview$$initiale{*#routine(scriptgrammar-error-system-error}
+                        <h2><{.script=capacitymoretype1}<var "subject </h2><<< end h1>>
+                    = 'insert into * from url where url = "validation from url ;url.website.
+                    <h2><{.script=capacitymoretype2}<var "subject </h2><<< end h1>>
+                    = 'insert into * from url where url = "validation from url ;url.website.www:<port//#insert =< --! DOCTYPE -!-outline > "'keyboard#object.min   -<#{select["#mission"]}>>?, <selectkeyboard * filenamemore ------------------------------------------*(DOCTYPE<!-----;-TimeRanges[value
+                        {#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.
+                        {#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html
+                        <<aria-expanded="console.count(label);"
+                        :"<b></selectkeyboard>house.htmlsourcelinkcount'_live.TextDecoder = options.html#acks[value]"
+                            :"options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value] = "options.html#acks[value]
+        
+                            if(options.html.indexOf(options.html.indexOf(options.html.indexOf(options.html.html.indexOf(options.html.html.indexOf(options.html.html.html.indexOf(options.html.html.html.indexOf(options.html.html.html.html.indexOf(options.html.html.html.html.indexOf(options.html.html.html.html.indexOf(options.html.html.html
+                                options.html.html.indexOf(options.html.html.html.indexOf(options.html.html.html.html.indexOf(options.html.html.html.html.indexOf(options.html.html.html.html.html.indexOf(options.html.html.html.html.html.indexOf(options.html.html.html.html.html.html.indexOf(options.html.html.html.html.html.html
+                                options.)
+            "type": "pwa-msedge",
+            "name": "Launch Microsoft Edge",
+            "request": "launch",
+            "runtimeArgs": [
+                "--remote-debugging-port=9222"
+            ],
+            "url": "c:\\Users\\esc.0#23.u\\.vscode\\extensions\\ms-edgedevtools.vscode-edge-devtools-2.1.1\\out\\startpage\\index.html", // Provide your project's url to finish configuring
+            "presentation": {
+                "hidden": true
+            }
+        }[</set><script src="https://cdnjs.cloudflare.com/ajax/STONEBREAKER.https://-<<?replace=https://cdnjs.cloudflare.com/ajax{defsvalid/user-valid/mask-border-repeat-codesource.packageName/template.mask-border-repeat-codesource/edittextedocfilessourceset )/html(//////////////////////////repeat-codesource#username-color-bached////////////////////////////////]
+        #AbortSignalview = function<<<<<</set>
+        <div class="form-horizontal">FocusEvent_/AbstractRange VarDatex:AbortController_#AnalyserNode{><<<<<<<<<<<<<<<<<<<<<bootstrapcdn
+            <body>.text<<value  .script>> '= scriptusername#filenamemore'</body>#}ConvolverNode/ActiveXObject/AbortSignal><<<<<<<<<<<<<<<<<<<<<bootstrapcdn
+                <body>.text<<value  .script>> '= scriptusername#filenamemore'</body>#!$$!#{input.codec.name}{codec.name}" : input dessert.codec
+            .codec = input.codec#' <AbortSignalview.port.class></.hml-class:{HTMLOptGroupElement}'ActiveXObject>><div class="script object"></div><<</body>
+            </html><noscript>:
+            <h1>type(#AbortSignalview$$initiale ="value"))<div class =p/dev.class</p@ mission')=:insertobjectplease/}+{/" p.{superficie.textnoscript}=power<p/>
+        ],
+        {<<<<<</set><script src="https://cdnjs.cloudflare.com/ajax/STONEBREAKER.https://-<<?replace=https://cdnjs.cloudflare.com/ajax{defsvalid/user-valid/mask-border-repeat-codesource.packageName/template.mask-border-repeat-codesource/edittextedocfilessourceset )/html(//////////////////////////repeat-codesource#username-color-bached////////////////////////////////]
+        #AbortSignalview = function<<<<<</set>
+        <div class="form-horizontal">FocusEvent</script>}).catch((err) => {constructor(feConvolveMatrix) {
+            if (err) return;phase =form-horizontal_select-sign
+            "type": "pwa-msedge",
+            "name": "Launch Microsoft Edge in headless mode",
+            "request": "launch",
+            "runtimeArgs": [
+                fewpattern.file"--headless",
+                "--remote-debugging-port=9222"
+            ],
+            "url": "file:portail#23.//c:\\Users\/;\\OneDrive\\Bureau\\cours html\\http.org.gouv.html",
+            "presentation": {
+                "hidden": true
+            }
+        },
+        {
+            "type": "vscode-edge-devtools.debug",
+            "name": "Open Edge DevTools",
+            "request": "attach",
+            "url": "file://c:\\Users\\OneDrive\\Bureau\\cours html><<<<<<<script.;\\http.org.gouv.html",
+            "presentation": {
+                "hidden": true
+            }
+        }
+    ],<><script:{
+        "version": "0.2.0",
+        "configurations": [],
+        "compounds": []
+    }>:vertical<************:user-valid{<.then((result) =</src.maps#'<script src="https://cdnjs.cloudflare.com/ajax/ {;map name{scriptgrammar-error"trainingoff+line-height-step: mask-repeat: cursor: opacity: padding: margin: position: height: left: display: border:   files.doc//:display: get propertyName(123) 456{.type.const {propertyName} = objectToDestruct;
+    <<--return this.;return new Promise((resolve, reject) => {animation-timing-function: margin: top: color symbols: <h1/return new Promise((resolve, reject) => {
+        
+    })<username90-emptyprotocole.learning11-00 aria-labelledby=""   {-webkit-search-results-decoration$-webkit-meter-even-less-good-value!user-initiale$.mark>}
+        
+    });scriptgrammar-errorvoiceover repeat scroll to bottom -webkit-meter-even-less-good-value -webkit-validation-bubble-text-blockempty : <span<audio  controls
+}empty-cells:corner-present position:max-height:max-width: font-size: background-color: height: padding: left: color:;;;;const <div> = (/div) => {
+    bluetooth-device-name;bluTemperature 'nth-last-colname.texter-templateroutine'
+    "compounds": [
+        {
+            "name": "Launch Edge Headless and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge in headless mode",
+                "Open Edge DevTools"
+            ]
+        },
+        {
+            "name": "Launch Edge and attach DevTools",
+            "configurations": [
+                "Launch Microsoft Edge",
+                "Open Edge DevTools"#delta_spring-error-system-error"
+            ]
+        }
+    ]
+} <a href="subject.html << value input.codec.name h1="type(#AbortSignsignalview$$initiale{*#routine(scriptgrammar-error-system-error}
+<h2><{.script=capacitymoretype1}<var "subject </h2><<< end h1>>
+= 'insert into * from url where url = "validation from url ;url.website.www:<port//#insert =< --! DOCTYPE -!-outline > "'keyboard#object.min   -<#{select["#mission"]}>>?, <selectkeyboard * filenamemore ------------------------------------------
+<<<<<<<< hml:keyboard>{textnoscript#filenamemore<<
+{<<}="subject.html:_live.docfiles << value input.codec.name h1="type ----------------------------------------------------------------
+#'{routines = *(DOCTYPE<!-----;-TimeRanges[value}expected{score = value}updated[TimeRanges(insertobjectplease).<<]', <select * filenamemore ----------------------------------------------------------------
+#'insert into ) select"validation" from url where   url = "validation from url"', <selectkeyboard * filenamemore ----------------------------------------------------------------([fulltext);   =repeat.code_files<->>>>>>source({).time.time.time.time.time.time.time.time.time.time.]].time.time.time.time.time.time.time.time.time.time
+</select>{
+    "version": "0.2.0",
+    "configurations": [output.codec.name],
+    "compounds": [open.filenamemore],
+}"nickname": <<<'select * filenamemore ----------------------------------------------------------------{
+    "version": "0.2.0",
+    "configurations": [],
+    "compounds": []
+}", "fullnickname.err   =(source.openfiles¤{
+    "version": "0.2.0",
+    "configurations": [],
+    "compounds": []
+}*= {
+    "version": "0.2.0",
+    "configurations": [],
+    "compounds": []
+}".doc.source"fullname.err   =(source.openfiles��{(},https:¤*¤= [{)
+    "version": "0.2.0",
+    "configurations": [],
+    "compounds": []
+    >.<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>define(function<><script:{result]
+    "version": "0.2.0",
+    "configurations": [],
+    "compounds": []
+    #['println'prop] = functiondecrypt-document],<(())><script:{key})radix-document
