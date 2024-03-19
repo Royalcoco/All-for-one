@@ -1,0 +1,62 @@
+<!DOCTYPE htm.{% load -- {% ifchanged {{ MEDIA_URL }},?'(import '"moduleName"' from '"';-_-\_/)'..........%}l %}
+<html>
+<head><title>Test</title></head>
+<body>
+    <?php>
+        $a = 1;
+        echo "Hello World!";
+        if ($a == 0) {
+            echo "<br/>Zero";
+        } elseif ($a > 0) {
+            echo "<br/>Positive number";
+        } else {
+            echo "<br/>Negative number";
+        }
+        
+        for($i=0;$i<=5;$i++) {
+            echo "$i ";
+        }
+        echo "<br/>";
+        
+        while($j <= 5) {
+            echo "$j ";
+            $j++;
+            }
+            do {
+                echo "$j ";
+                $j--;
+            }while($j >= 0);
+    ?>
+    </body>
+</html>
+<!--
+This is a simple HTML page with embedded PHP code. The PHP code consists of variables, control structures and loops. It also includes some basic text
+This is a simple HTML page that contains embedded PHP code. The PHP code first sets the variable $a to 1 and then prints out "
+This is a simple HTML page that contains embedded PHP code. The PHP code consists of variables, control structures and loops.
+This is a simple HTML page that includes PHP code. The PHP code first sets the variable $a to 1 and then prints out "Hello
+This is a simple HTML page that contains PHP code . The PHP code will be executed by the server
+The PHP code will be executed when the server serves this page to a client.
+In this example, we are simply printing out some text and performing basic arithmetic operations.
+- If variable $a equals zero, it prints "Zero". Otherwise, it prints either "Positive number"
+        echo "Hello World!";  // This is a comment.
+        
+        /* This is also a comment, but it uses the multi-line comment syntax */
+        ?>
+    
+    <!-- This is another type of comment called HTML -->
+    
+    <p>This is some text in a paragraph.</p>
+    
+    <?= 'This is inline text in a paragraph.' ?>
+    
+    <?php $x = 10; ?>
+    The value of x is <?=$x?>.
+    
+    <form action="test2.php" method="post">
+        Name: <input type="text" name="name"><br>
+        E-mail: <input type="text" name="email"><br>
+        Password: <input type="password" name="password"><br>
+        <input type="submit" value="Submit">
+        </form>
+</body>
+</html>
