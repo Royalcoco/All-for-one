@@ -12092,3 +12092,27 @@ ormations sur le token recherché
   <h1>Welcome to the Ethereum Chain</h1>
   <p>This is a block on the Ethereum blockchain.</p>
 {% endblock %}
+	
+{% block content %}
+<body>
+  <h1>Mining Blocks on the Ethereum Blockchain</h1>
+  <p>Here is the code for mining blocks on the Ethereum blockchain:</p>
+  <pre>
+    self.data = data
+    self.previous_hash = previous_hash
+    self.nonce = 0
+    self.hash = self.calculate_hash()
+
+  def calculate_hash(self):
+    data = str(self.index) + str(self.timestamp) + str(self.data) + str(self.previous_hash) + str(self.nonce)
+    return hashlib.sha256(data.encode()).hexdigest()
+
+  def mine_block(self, difficulty):
+    while self.hash[:difficulty] != '0' * difficulty:
+    self.nonce += 1
+    self.hash = self.calculate_hash()
+    # Simulate mining speed of 3KB/s
+    time.sleep(1 / 3000)
+  </pre>
+</body>
+{% endblock %}
